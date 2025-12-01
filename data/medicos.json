@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Dra. Ana Souza",
+    "idade": 45,
+    "cpf": "111.222.333-44",
+    "especialidade": "Cardiologista"
+  },
+  {
+    "nome": "Dr. Carlos Mendes",
+    "idade": 25,
+    "cpf": "222.333.444-55",
+    "especialidade": "Ortopedia"
+  },
+  {
+    "nome": "Dr. Mike F",
+    "idade": 40,
+    "cpf": "333.444.555-66",
+    "especialidade": "Dermatologia"
+  },
+  {
+    "nome": "Dra. Anna Karla",
+    "idade": 33,
+    "cpf": "44.555.666-77",
+    "especialidade": "Pediatria"
+  }
+]
