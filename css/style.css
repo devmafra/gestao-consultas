@@ -64,10 +64,11 @@ input {
 }
 #inputDate {
   width: 100%;
+  position: relative;
 }
 #inputDate::-webkit-calendar-picker-indicator {
-  position: relative;
-  right: 85%;
+  position: absolute;
+  left: 7rem;
 }
 #inputDate-container {
   width: 100%;
